@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5441be75fc13074394802702a6b4d5e, type: 3}
+  m_Name: NewRDBtest
+  m_EditorClassIdentifier: 
+  rooms:
+  - name: 
+    room: {fileID: 2464923062665237130, guid: fa890a61a39a71b429fa872daee1e18e, type: 3}
+    exits:
+      top: 0
+      right: 0
+      down: 1
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 7106739285924108012, guid: 4465ebf1830e3574f9d5af031b42bff6, type: 3}
+    exits:
+      top: 0
+      right: 0
+      down: 1
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 5654007377109110994, guid: 8b75aa9adfb97b84291bef262202bf87, type: 3}
+    exits:
+      top: 0
+      right: 1
+      down: 1
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 5441782950138408927, guid: a95c144abaa901c4ab4769c340b4710e, type: 3}
+    exits:
+      top: 1
+      right: 1
+      down: 1
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 4045305497694763129, guid: 631600f4aa206a849b70e2d896f7d088, type: 3}
+    exits:
+      top: 1
+      right: 0
+      down: 1
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 8951915981942406585, guid: 87dbfdf9b34818043af5c91ce7131f68, type: 3}
+    exits:
+      top: 0
+      right: 1
+      down: 1
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 4763534603408740730, guid: 4ccac20a1bbb2424d90331660710ff4d, type: 3}
+    exits:
+      top: 1
+      right: 1
+      down: 1
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 8013691839098299559, guid: 317336932da17b440add28520f4cc03d, type: 3}
+    exits:
+      top: 1
+      right: 0
+      down: 1
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 5312053537920720209, guid: 2c7a360dbf5f83b45ba94de67720c263, type: 3}
+    exits:
+      top: 0
+      right: 0
+      down: 0
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 4681491027897476786, guid: e8175aa9bc970284ab01ff37926aaef2, type: 3}
+    exits:
+      top: 0
+      right: 1
+      down: 0
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 2892169355072764172, guid: fab3c12c12a8a9241b7738e61b92bf78, type: 3}
+    exits:
+      top: 1
+      right: 1
+      down: 0
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 6123103098511069410, guid: 4e4197de581c7bc4d88585fb1b883184, type: 3}
+    exits:
+      top: 0
+      right: 1
+      down: 0
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 8932479991690336027, guid: 50af1484c2cb8424b8d2ee13387f4aed, type: 3}
+    exits:
+      top: 1
+      right: 0
+      down: 0
+      left: 0
+      index: 0
+  - name: 
+    room: {fileID: 5341552120739034966, guid: 7a3ec90485a488c4e93dacf9f5db1992, type: 3}
+    exits:
+      top: 1
+      right: 0
+      down: 0
+      left: 1
+      index: 0
+  - name: 
+    room: {fileID: 4777293178393116795, guid: b7fe4d39e9fa42841bb96c66c7ade5d6, type: 3}
+    exits:
+      top: 1
+      right: 1
+      down: 0
+      left: 0
+      index: 0
+  roomSize: 0
